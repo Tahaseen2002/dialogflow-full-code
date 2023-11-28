@@ -1,0 +1,2 @@
+First we have to open server and start npm start after we have check that in postman with localhost:3030/text_query
+next we start front end with npm start react 
